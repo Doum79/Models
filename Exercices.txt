@@ -1,0 +1,61 @@
+
+Exercice 1:
+
+the marine is a human 
+he has 40 life points
+he moves at the speed of 5
+he screams "AAAAARGH!!!" when he dies
+
+the "MarineTest" unit test must pass
+
+estimated 15min (this include the time to reas all this documentation)
+
+***** Exercice 2:
+
+the Vulture is a human vehicule with the following requirements
+he ha 60 life points
+he moves at the speed of 10
+he screams "BOOOOM!!" when he dies
+the "VultureTest" unit test must pass
+estimated 8min
+
+**** Exercice 3:
+The Zergling is an ET( Zerg race) 
+he ha 30 life points
+he moves at the speed of 7
+he screams "SPLOTCH!!" when he dies
+the "ZerglingTest" unit test must pass
+
+estimated 7min
+
+
+**** Exercice 4: The buildings ***************
+
+after handling units, now, we must be able to build buildgins. TO do so, we have a 'Builder" but it seems it is not working well.
+the BuilderShould units test must pass.
+
+estimated 10 min
+
+**** Exercice :5: The Marine Armor ***************
+
+Let's go back to our "Marine". When a "Marine" is created, he:
+
+* is able to wear an armor (or not)
+	* without armor, the damage are all inflicted 
+	* with the basic armor, the damage are reduced by 2 points
+	* with the enhanced armor, the damage are divided by 2
+
+the is no existing units test. You are free to do as you want 
+but you must include unit tests to prove that your implementing is working
+
+estimated 25 min
+
+
+**** Exercice 6: The Armor ****************
+
+To be fair with the other units, implements the same armor, requirements defined before for all the other units (Vulre & Zergling)
+Add also a mytic armor the reduce the damage by 75%
+
+the is no existing units test. You are free to do as you want but you must include unit tests to prove that your implementing is working
+
+estimated 20 min
